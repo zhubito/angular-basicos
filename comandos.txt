@@ -8,3 +8,6 @@ ej: ng g m dbz
 //Crear componente nuevo por consola.
 ng g c [ruta del componente] --skip-tests //--skip-tests evita crear el archivo de pruebas
 ej: ng g c dbz/mainPage --skipTests
+
+//crear build de prod
+ng build --prod
