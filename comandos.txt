@@ -1,0 +1,10 @@
+//levantar y abrir el proyecto en el navegador
+ng serve -o
+
+//Crear modulo nuevo por consola.
+ng g m [ruta del modulo]
+ej: ng g m dbz
+
+//Crear componente nuevo por consola.
+ng g c [ruta del componente] --skip-tests //--skip-tests evita crear el archivo de pruebas
+ej: ng g c dbz/mainPage --skipTests
