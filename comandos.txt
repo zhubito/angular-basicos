@@ -11,3 +11,6 @@ ej: ng g c dbz/mainPage --skipTests
 
 //crear build de prod
 ng build --prod
+
+//ruta de aplicativo en prod
+https://nostalgic-mahavira-473624.netlify.app/
